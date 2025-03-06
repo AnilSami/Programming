@@ -1,6 +1,6 @@
 d = []
-name1 = "Anil"
-name2 = "Bujji thalli"
+name1 = "ABCD"
+name2 = "ABCDAC"
 def fill(text) :
     for i in text :
         d.append(i)
